@@ -1,0 +1,22 @@
+﻿# virtual environments
+.venv/
+venv/
+env/
+
+# raw data (keep folder, ignore files)
+data/raw/*
+!data/raw/README.md
+
+# results/ artifacts
+results/**
+!results/.gitkeep
+
+# caches & junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# large arrays
+*.npy
+*.npz

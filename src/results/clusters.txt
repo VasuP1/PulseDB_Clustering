@@ -1,0 +1,4 @@
+Cluster 0: size=13
+Cluster 1: size=12
+Cluster 2: size=13
+Cluster 3: size=12
